@@ -4,7 +4,6 @@ In this project, a portfolio site should be created based on the design mockup f
 
 - Required course: [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304).
 - Required technics: html, css and bootstrap.
-- Required rule: (https://www.udacity.com/course/viewer#!/c-nd001/l-2736698543/m-3881828682)
 
 ####Steps to finish this project:
 
