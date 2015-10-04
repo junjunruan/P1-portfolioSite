@@ -12,6 +12,7 @@ In this project, a portfolio site should be created based on the design mockup f
 - Make use of Bootstrap framework for laying out the site.
 - Write HTML and CSS files, continue to iterate until the work is representative of the design mockup.
 - Make sure this website is responsive to devices with different screens.
+- Use Chrome Developer Tools to develop, test, and debug the webiste.
 - Validate HTML and CSS against the [W3C's Validators](http://validator.w3.org/). 
 
 Click this link to visit my portfolio website: http://junjunruan.github.io/P1-portfolioSite/
